@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <ArtPath>Assets/CardGame/Resources/CardsArt/vikings_5.jpg</ArtPath>
+      <AttackDamage>0</AttackDamage>
+      <Cost>2</Cost>
+      <ExtraData>
+         <Effect>3</Effect>
+         <EffectAmount>0</EffectAmount>
+      </ExtraData>
+      <ExtraDataTypeName>SpellExtraData</ExtraDataTypeName>
+      <Health>0</Health>
+      <Name>Helmet Bash</Name>
+   </element>
+   <element>
+      <ArtPath>Assets/CardGame/Resources/CardsArt/vikings_8.jpg</ArtPath>
+      <AttackDamage>0</AttackDamage>
+      <Cost>1</Cost>
+      <ExtraData>
+         <Effect>0</Effect>
+         <EffectAmount>1</EffectAmount>
+      </ExtraData>
+      <ExtraDataTypeName>SpellExtraData</ExtraDataTypeName>
+      <Health>0</Health>
+      <Name>Ouch Chest</Name>
+   </element>
+   <element>
+      <ArtPath>Assets/CardGame/Resources/CardsArt/vikings_7.jpg</ArtPath>
+      <AttackDamage>0</AttackDamage>
+      <Cost>0</Cost>
+      <ExtraData>
+         <AttackDamage>0</AttackDamage>
+         <Health>1</Health>
+      </ExtraData>
+      <ExtraDataTypeName>MinionExtraData</ExtraDataTypeName>
+      <Health>0</Health>
+      <Name>Viking</Name>
+   </element>
+   <element>
+      <ArtPath>Assets/CardGame/Resources/CardsArt/vikings_6.jpg</ArtPath>
+      <AttackDamage>0</AttackDamage>
+      <Cost>2</Cost>
+      <ExtraData>
+         <AttackDamage>2</AttackDamage>
+         <Health>2</Health>
+      </ExtraData>
+      <ExtraDataTypeName>MinionExtraData</ExtraDataTypeName>
+      <Health>0</Health>
+      <Name>Thor</Name>
+   </element>
+</root>

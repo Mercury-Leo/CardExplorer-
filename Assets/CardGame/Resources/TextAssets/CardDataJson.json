@@ -1,0 +1,62 @@
+[
+  {
+    "Name":"Viking Heart",
+    "Health":0,
+    "AttackDamage":0,
+    "Cost":3,
+    "ArtPath":"Assets/CardGame/Resources/CardsArt/vikings_9.jpg",
+    "ExtraDataTypeName":"SpellExtraData",
+    "ExtraData":{
+      "Effect":1,
+      "EffectAmount":4
+    }
+  },
+  {
+    "Name":"Battle Horn",
+    "Health":0,
+    "AttackDamage":0,
+    "Cost":2,
+    "ArtPath":"Assets/CardGame/Resources/CardsArt/vikings_3.jpg",
+    "ExtraDataTypeName":"SpellExtraData",
+    "ExtraData":{
+      "Effect":2,
+      "EffectAmount":3
+    }
+  },
+  {
+    "Name":"Bilbi",
+    "Health":0,
+    "AttackDamage":0,
+    "Cost":4,
+    "ArtPath":"Assets/CardGame/Resources/CardsArt/vikings_4.jpg",
+    "ExtraDataTypeName":"MinionExtraData",
+    "ExtraData":{
+      "Health":5,
+      "AttackDamage":4
+    }
+  },
+  {
+    "Name":"Da Wolf",
+    "Health":0,
+    "AttackDamage":0,
+    "Cost":1,
+    "ArtPath":"Assets/CardGame/Resources/CardsArt/vikings_2.jpg",
+    "ExtraDataTypeName":"MinionExtraData",
+    "ExtraData":{
+      "Health":2,
+      "AttackDamage":1
+    }
+  },
+  {
+    "Name":"Piggy the Rouge Warrior",
+    "Health":0,
+    "AttackDamage":0,
+    "Cost":8,
+    "ArtPath":"Assets/CardGame/Resources/CardsArt/vikings_1.jpg",
+    "ExtraDataTypeName":"MinionExtraData",
+    "ExtraData":{
+      "Health":10,
+      "AttackDamage":10
+    }
+  }
+]
